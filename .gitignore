@@ -5,6 +5,7 @@ data/.ipynb_checkpoints/
 img/
 img.html
 *.jpg
+*.jpeg
 .env
 =======
 # img/*.jpg
